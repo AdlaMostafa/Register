@@ -1,5 +1,5 @@
 import React from 'react';
-import ButtonComponent from '../ButtonComponet';
+import ButtonComponent from '../ButtonComponent';
 import View from '../../Images/eye.png'
 import Hide from '../../Images/Hide.png'
 
