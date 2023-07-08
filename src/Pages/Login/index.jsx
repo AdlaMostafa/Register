@@ -6,7 +6,7 @@ import Qoute from "../../Images/quote.png";
 import Vector from "../../Images/vector.png";
 import Arrow from "../../Images/arrow_back.png";
 import Signup from "../../Pages/Signup";
-import ButtonComponent from "../../components/ButtonComponet";
+import ButtonComponent from "../../components/ButtonComponent";
 import "./style.css";
 
 export default class Login extends Component {
